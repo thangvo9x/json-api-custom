@@ -1,7 +1,0 @@
-2018-07-11T06:48:59+00:00 DEBUG 
-====Stripe Version: 4.1.7====
-====Start Log====
-Error: Unable to verify domain - cURL error 35: Unknown SSL protocol error in connection to api.stripe.com:443 
-====End Log====
-
-
